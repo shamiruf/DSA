@@ -1,7 +1,7 @@
 # DSA
-Data structures and algorithms
-
 Subject: DSA FEL CVUT
+
+Data structures and algorithms
 
 ### B-Tree
 Instances of the Tree class represent a B-tree. Class Tree has functions like contains(key), add(key), remove(key).
